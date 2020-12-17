@@ -24,4 +24,5 @@
 
 
 
-Note: 该数据集的数据库模式与SParC数据集共享，可至[SParC](https://yale-lily.github.io/sparc)下载。
+Note: 该数据集的数据库模式与SParC数据集共享，可至[SParC](https://yale-lily.github.io/sparc)下载database/文件夹放在该目录下。
+
